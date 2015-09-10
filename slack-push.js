@@ -1,5 +1,5 @@
 var REQ_SHEET = "Form Responses 1";
-var SLACK_API = "INSERT HERE";
+var SLACK_API = "INSERT WEBHOOK URL HERE";
 var BOT_ACTION = "Sent to Slack!";
 
 function myFunction() {
